@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    box-sizing: border-box;
+}
+
+body {
+    height: 100vh;
+}
+
+.margin-auto {
+    margin: 0 auto;
+}
+
+nav div {
+    padding: 0.3em;
+}
+
+.max-w-60 {
+    max-width: 60%;
+}
+
+.nav-item {
+    margin: 0 2.5em;
+}
+
+ul {
+    list-style: none;
+}
+
+h1,h3 {
+    font-size: large;
+    font-weight: bolder;
+    margin: 1em;
+}
+
+h1 {
+    font-size: xx-large;
+}
